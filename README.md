@@ -12,7 +12,7 @@ To install and use this project, please follow the steps below: <br>
 * **pip install -r requirements.txt**
 
 ## Usage
-* run launch_program.py
+* run **launch_program.py**
 
 
 
