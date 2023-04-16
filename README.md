@@ -5,3 +5,8 @@ This is a face recognition login project that uses OpenCV and the face-recogniti
 The project is open-source and can be customized to fit various needs.
 
 ## Installation
+To install and use this project, please follow the steps below: <br>
+git clone <repository-url>
+
+
+
