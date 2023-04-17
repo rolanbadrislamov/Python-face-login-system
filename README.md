@@ -11,7 +11,8 @@ To install and use this project, please follow the steps below: <br>
 * Install the necessary modules and dependencies listed in the requirements.txt file: <br>
 ``` python 
 
-- * **pip install -r requirements.txt**
+pip install -r requirements.txt
+```
 
 ## Usage
 * run **launch_program.py**
