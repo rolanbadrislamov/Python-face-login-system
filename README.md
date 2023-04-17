@@ -9,7 +9,9 @@ The project is open-source and can be customized to fit various needs.
 To install and use this project, please follow the steps below: <br>
 * Clone this repository to your IDE <br>
 * Install the necessary modules and dependencies listed in the requirements.txt file: <br>
-* **pip install -r requirements.txt**
+``` python 
+
+- * **pip install -r requirements.txt**
 
 ## Usage
 * run **launch_program.py**
